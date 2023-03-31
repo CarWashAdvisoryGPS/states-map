@@ -1,4 +1,4 @@
-$('#us-map').append(`
+$('.us-map-wrapper').append(`
 <?xml version="1.0" encoding="utf-8"?>
 <svg id="us-map" width="959px" height="593px" viewBox="174 100 959 593" enable-background="new 174 100 959 593"
   xml:space="preserve" fill="#f5f5f5">
